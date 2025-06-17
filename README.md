@@ -12,7 +12,7 @@ os: To access file directories.
 
 datetime: To get the current time/date for marking attendance.
 
-##Here’s what is performed in the Face Recognition Attendance System project, step by step:
+## Steps performed in the Face Recognition Attendance System project, step by step:
 
 1. Load Training Images
 
